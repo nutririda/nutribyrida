@@ -1,4 +1,4 @@
-import{o as e,t}from"./footer-DhAV6sCo.js";import{t as n}from"./rida-BE1LN_nd.js";var r=`/nutribyrida/assets/hero-BL7j1etI.jpg`;function i(){return`
+import{o as e,t}from"./footer-D9qfMUeq.js";import{t as n}from"./rida-BE1LN_nd.js";var r=`/nutribyrida/assets/hero-BL7j1etI.jpg`;function i(){return`
     <section class="hero">
       <div class="container hero-container">
 
