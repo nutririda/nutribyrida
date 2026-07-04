@@ -1,4 +1,4 @@
-import{n as e,t}from"./footer-CS_rAH45.js";import{t as n}from"./rida-BE1LN_nd.js";function r(){return`
+import{n as e,t}from"./footer-DPxbacg0.js";import{t as n}from"./rida-BE1LN_nd.js";function r(){return`
 
 <section class="about-hero">
 
