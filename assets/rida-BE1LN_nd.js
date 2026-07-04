@@ -1,0 +1,1 @@
+var e=`/nutribyrida/assets/rida-BFPFrQaX.png`;export{e as t};
