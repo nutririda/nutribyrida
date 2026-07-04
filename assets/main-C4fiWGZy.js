@@ -175,129 +175,93 @@ import{n as e,t}from"./footer-DPxbacg0.js";import{t as n}from"./rida-BE1LN_nd.js
     </section>
   `}function o(){return`
     <section class="about-preview" id="about-preview">
-
       <div class="container about-container">
-
         <div class="about-image">
-
           <img src="${n}" alt="Syeda Rida Batool">
-
           <div class="about-badge degree">
             🎓 Food & Nutrition Graduate
           </div>
-
           <div class="about-badge research">
             🔬 Research Experience
           </div>
-
         </div>
 
         <div class="about-content">
-
           <span class="section-tag">
             MEET YOUR NUTRITIONIST
           </span>
-
           <h2>
             Syeda Rida Batool
           </h2>
-
           <p>
             Passionate about helping individuals build healthier lifestyles through practical nutrition guidance, research and clinical experience.
           </p>
 
           <div class="about-list">
-
             <div class="about-item">
                Bachelor's in Food & Nutrition
             </div>
-
             <div class="about-item">
                Principal Researcher – GIFT University
             </div>
-
             <div class="about-item">
                Health Coordinator – NDS Pakistan
             </div>
-
             <div class="about-item">
                Hospital & Community Nutrition Experience
             </div>
-
           </div>
 
-          <a href="${basePath}about.html" class="btn-primary">
+          <a href="/nutribyrida/about.html" class="btn-primary">
             Learn More About Rida
           </a>
 
         </div>
-
       </div>
-
     </section>
   `}function s(){return`
 <section class="services-preview">
-
     <div class="container">
-
         <div class="section-heading">
-
             <span class="section-tag">
                 MY SERVICES
             </span>
-
             <h2>
                 Professional Nutrition
                 <span>Services</span>
             </h2>
-
             <p>
                 Practical, evidence-based nutrition guidance designed to help you
                 build healthier habits and achieve long-term wellness.
             </p>
-
         </div>
 
         <div class="services-grid">
-
             <div class="service-card">
-
                 <div class="service-icon">🥗</div>
-
                 <h3>Personalized Diet Plans</h3>
-
                 <p>
                     Customized meal plans based on your lifestyle,
                     health goals and nutritional requirements.
                 </p>
-
             </div>
 
             <div class="service-card">
-
                 <div class="service-icon">🩺</div>
-
                 <h3>Medical Nutrition Therapy</h3>
-
                 <p>
                     Nutrition support for obesity, diabetes,
                     PCOS, hypertension and other medical conditions.
                 </p>
-
             </div>
-
         </div>
 
         <div class="services-btn">
-
-            <a href="${basePath}services.html" class="primary-btn">
-    Explore All Services
-</a>
-
+            <a href="/nutribyrida/services.html" class="primary-btn">
+                Explore All Services
+            </a>
         </div>
-
     </div>
-
 </section>
 `}function c(){return`
 <section class="testimonials-section">
