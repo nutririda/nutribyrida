@@ -226,7 +226,7 @@ import{n as e,t}from"./footer-DPxbacg0.js";import{t as n}from"./rida-BE1LN_nd.js
 
           </div>
 
-          <a href="/about.html" class="btn-primary">
+          <a href="${basePath}about.html" class="btn-primary">
             Learn More About Rida
           </a>
 
@@ -290,7 +290,7 @@ import{n as e,t}from"./footer-DPxbacg0.js";import{t as n}from"./rida-BE1LN_nd.js
 
         <div class="services-btn">
 
-            <a href="/services.html" class="primary-btn">
+            <a href="${basePath}services.html" class="primary-btn">
     Explore All Services
 </a>
 
