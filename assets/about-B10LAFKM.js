@@ -1,4 +1,4 @@
-import{n as e,t}from"./footer-DPxbacg0.js";import{t as n}from"./rida-BE1LN_nd.js";function r(){return`
+import{a as e,i as t,n,o as r,r as i,t as a}from"./footer-Baq36xRm.js";import{t as o}from"./rida-BE1LN_nd.js";function s(){return`
 
 <section class="about-hero">
 
@@ -46,7 +46,7 @@ Dedicated Nutritionist with a strong academic background in Food & Nutrition and
 
 <div class="about-photo">
 
-<img src="${n}" alt="Syeda Rida Batool">
+<img src="${o}" alt="Syeda Rida Batool">
 
 <div class="floating-card card1">
 
@@ -68,7 +68,7 @@ Dedicated Nutritionist with a strong academic background in Food & Nutrition and
 
 </section>
 
-`}function i(){return`
+`}function c(){return`
 <section class="dna-section">
 
     <div class="container">
@@ -241,7 +241,7 @@ Dedicated Nutritionist with a strong academic background in Food & Nutrition and
     </div>
 
 </section>
-`}function a(){return`
+`}function l(){return`
 <section class="philosophy-section">
 
     <div class="container">
@@ -324,13 +324,10 @@ Dedicated Nutritionist with a strong academic background in Food & Nutrition and
     </div>
 
 </section>
-`}var o=`/nutribyrida/assets/instagram-CVFJBcOL.png`,s=`/nutribyrida/assets/facebook-ejnf6rkB.png`,c=`/nutribyrida/assets/tik-tok-DYhNgQYZ.png`,l=`/nutribyrida/assets/youtube-SsrGC1K8.png`,u=`/nutribyrida/assets/whatsapp-BCxDlPO_.png`;function d(){return`
+`}var u=`/nutribyrida/assets/whatsapp-BCxDlPO_.png`;function d(){return`
 <section class="connect-section">
-
     <div class="container">
-
         <div class="connect-box">
-
             <h2>
                 Ready to Start Your
                 <span>Health Journey?</span>
@@ -342,11 +339,7 @@ Dedicated Nutritionist with a strong academic background in Food & Nutrition and
                 I'm here to help.
             </p>
 
-            <a
-                href="https://wa.me/923001234567"
-                target="_blank"
-                class="connect-btn"
-            >
+            <a href="https://wa.me/923001234567" target="_blank" class="connect-btn">
                 <img src="${u}" alt="WhatsApp">
                 Book a Consultation
             </a>
@@ -356,37 +349,32 @@ Dedicated Nutritionist with a strong academic background in Food & Nutrition and
             </div>
 
             <div class="social-links">
-
-                <a href="#" target="_blank">
-                    <img src="${o}" alt="Instagram">
+                <a href="https://www.instagram.com/nutribyrida/" target="_blank">
+                    <img src="${e}" alt="Instagram">
                 </a>
 
                 <a href="#" target="_blank">
-                    <img src="${s}" alt="Facebook">
+                    <img src="${t}" alt="Facebook">
                 </a>
 
-                <a href="#" target="_blank">
-                    <img src="${c}" alt="TikTok">
+                <a href="https://www.tiktok.com/@nutribyrida" target="_blank">
+                    <img src="${i}" alt="TikTok">
                 </a>
 
-                <a href="#" target="_blank">
-                    <img src="${l}" alt="YouTube">
+                <a href="https://youtube.com/@nutribyrida?si=Sosk4ahDxme-B5bG" target="_blank">
+                    <img src="${n}" alt="YouTube">
                 </a>
-
             </div>
-
         </div>
-
     </div>
-
 </section>
 `}document.querySelector(`#app`).innerHTML=`
-    ${e()}
-
     ${r()}
 
-${i()}
-${a()}
+    ${s()}
+
+${c()}
+${l()}
 ${d()}
-${t()}
+${a()}
 `;var f=document.querySelector(`.menu-toggle`),p=document.querySelector(`.nav-links`);f&&p&&f.addEventListener(`click`,()=>{p.classList.toggle(`active`)});

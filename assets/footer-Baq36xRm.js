@@ -29,49 +29,32 @@
     </a>
   </nav>
 </header>
-`}function t(){return`
+`}var t=`/nutribyrida/assets/instagram-CVFJBcOL.png`,n=`/nutribyrida/assets/facebook-ejnf6rkB.png`,r=`/nutribyrida/assets/tik-tok-DYhNgQYZ.png`,i=`/nutribyrida/assets/youtube-SsrGC1K8.png`;function a(){return`
 <footer class="footer">
-
     <div class="container">
-
         <div class="footer-content">
-
             <h3>NutriByRida</h3>
-
             <p>
                 Helping you achieve a healthier lifestyle through
                 evidence-based nutrition.
             </p>
 
             <div class="footer-social">
-
-                <a href="#"><img src="/src/assets/social/instagram.png" alt=""></a>
-
-                <a href="#"><img src="/src/assets/social/facebook.png" alt=""></a>
-
-                <a href="#"><img src="/src/assets/social/tik-tok.png" alt=""></a>
-
-                <a href="#"><img src="/src/assets/social/youtube.png" alt=""></a>
-
+                <a href="https://www.instagram.com/nutribyrida/" target="_blank"><img src="${t}" alt="Instagram"></a>
+                <a href="#" target="_blank"><img src="${n}" alt="Facebook"></a>
+                <a href="https://www.tiktok.com/@nutribyrida" target="_blank"><img src="${r}" alt="TikTok"></a>
+                <a href="https://youtube.com/@nutribyrida?si=Sosk4ahDxme-B5bG" target="_blank"><img src="${i}" alt="YouTube"></a>
             </div>
 
             <div class="footer-contact">
-
-                <span>📞 +92 XXX XXXXXXX</span>
-
-                <span>📧 example@email.com</span>
-
+                <span>📞 +92 300 1234567</span>
+                <span>📧 nutribyrida@gmail.com</span>
             </div>
-
         </div>
 
         <div class="footer-bottom">
-
             © 2026 NutriByRida • Designed by Ali Waqar
-
         </div>
-
     </div>
-
 </footer>
-`}export{e as n,t};
+`}export{t as a,n as i,i as n,e as o,r,a as t};

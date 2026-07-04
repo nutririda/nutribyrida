@@ -1,4 +1,4 @@
-import{n as e,t}from"./footer-DPxbacg0.js";function n(){return`
+import{a as e,i as t,n,o as r,r as i,t as a}from"./footer-Baq36xRm.js";function o(){return`
 <section class="contact-hero">
 
     <div class="container">
@@ -21,15 +21,11 @@ import{n as e,t}from"./footer-DPxbacg0.js";function n(){return`
     </div>
 
 </section>
-`}function r(){return`
+`}function s(){return`
 <section class="contact-section">
-
     <div class="container">
-
         <div class="contact-wrapper">
-
             <div class="contact-info">
-
                 <span class="section-tag">
                     GET IN TOUCH
                 </span>
@@ -46,25 +42,22 @@ import{n as e,t}from"./footer-DPxbacg0.js";function n(){return`
 
                 <div class="info-card">
                     <div class="info-icon">📞</div>
-
                     <div>
-                        <h4>Phone</h4>
-                        <p>+92 XXX XXXXXXX</p>
+                        <h4>Phone / WhatsApp</h4>
+                        <p>+92 300 1234567</p>
                     </div>
                 </div>
 
                 <div class="info-card">
                     <div class="info-icon">📧</div>
-
                     <div>
                         <h4>Email</h4>
-                        <p>example@email.com</p>
+                        <p>nutribyrida@gmail.com</p>
                     </div>
                 </div>
 
                 <div class="info-card">
                     <div class="info-icon">📍</div>
-
                     <div>
                         <h4>Location</h4>
                         <p>Pakistan</p>
@@ -73,56 +66,38 @@ import{n as e,t}from"./footer-DPxbacg0.js";function n(){return`
 
                 <div class="info-card">
                     <div class="info-icon">🕒</div>
-
                     <div>
                         <h4>Working Hours</h4>
                         <p>Mon - Sat | 9:00 AM - 6:00 PM</p>
                     </div>
                 </div>
 
+                <div class="contact-social-box" style="margin-top: 30px;">
+                    <h4 style="margin-bottom: 15px; color: var(--text-dark);">Connect on Social Media</h4>
+                    <div class="social-links" style="display: flex; gap: 15px;">
+                        <a href="https://www.instagram.com/nutribyrida/" target="_blank"><img src="${e}" alt="Instagram" style="width: 32px; height: 32px;"></a>
+                        <a href="#" target="_blank"><img src="${t}" alt="Facebook" style="width: 32px; height: 32px;"></a>
+                        <a href="https://www.tiktok.com/@nutribyrida" target="_blank"><img src="${i}" alt="TikTok" style="width: 32px; height: 32px;"></a>
+                        <a href="https://youtube.com/@nutribyrida?si=Sosk4ahDxme-B5bG" target="_blank"><img src="${n}" alt="YouTube" style="width: 32px; height: 32px;"></a>
+                    </div>
+                </div>
             </div>
 
             <div class="contact-form-box">
-
                 <form>
-
-                    <input
-                        type="text"
-                        placeholder="Your Name"
-                    >
-
-                    <input
-                        type="email"
-                        placeholder="Email Address"
-                    >
-
-                    <input
-                        type="tel"
-                        placeholder="Phone Number"
-                    >
-
-                    <textarea
-                        rows="6"
-                        placeholder="Tell me about your goals..."
-                    ></textarea>
-
-                    <button
-                        type="submit"
-                        class="primary-btn"
-                    >
+                    <input type="text" placeholder="Your Name" required>
+                    <input type="email" placeholder="Email Address" required>
+                    <input type="tel" placeholder="Phone Number" required>
+                    <textarea rows="6" placeholder="Tell me about your goals..." required></textarea>
+                    <button type="submit" class="primary-btn">
                         Send Message
                     </button>
-
                 </form>
-
             </div>
-
         </div>
-
     </div>
-
 </section>
-`}function i(){return`
+`}function c(){return`
 <section class="contact-ending">
 
     <div class="container">
@@ -159,10 +134,10 @@ import{n as e,t}from"./footer-DPxbacg0.js";function n(){return`
 
 </section>
 `}document.querySelector(`#app`).innerHTML=`
-    ${e()}
-
-    ${n()}
     ${r()}
-    ${i()}
-    ${t()}
-`;var a=document.querySelector(`.menu-toggle`),o=document.querySelector(`.nav-links`);a&&o&&a.addEventListener(`click`,()=>{o.classList.toggle(`active`)});
+
+    ${o()}
+    ${s()}
+    ${c()}
+    ${a()}
+`;var l=document.querySelector(`.menu-toggle`),u=document.querySelector(`.nav-links`);l&&u&&l.addEventListener(`click`,()=>{u.classList.toggle(`active`)});
