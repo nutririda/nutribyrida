@@ -1,4 +1,4 @@
-import{a as e,i as t,n,o as r,r as i,t as a}from"./footer-5xFcM9cR.js";import{t as o}from"./rida-BE1LN_nd.js";function s(){return`
+import{a as e,i as t,n,o as r,r as i,t as a}from"./footer-DhAV6sCo.js";import{t as o}from"./rida-BE1LN_nd.js";function s(){return`
 
 <section class="about-hero">
 
